@@ -7,9 +7,9 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - 🎓 Pursuing Bachelors's in Computer Engineering from University of Peradeniya.
 
 ## Skills
-- **Programming Languages:** C, Java, Python
+- **Programming Languages:** C, Java, Python, PHP
 - **Web Technologies:** HTML, CSS, JavaScript, Node.js
-- **Database:** MySQL, MongoDB
+- **Database:** MySQL, MongoDB, Firebase
 - **Hardware & Embedded Systems:** VHDL,
 - **Version Control:** Git, GitHub
 
