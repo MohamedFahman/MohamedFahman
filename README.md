@@ -15,14 +15,16 @@ I'm a passionate computer engineering student, always exploring the latest techn
 
 ## Projects
 ### [Project 1 Name]
+- Description: CO2226 Database Project : Online Shopping System.
+- Technologies: HTML, PHP, CSS, MySQL.
+- Repository: https://github.com/cepdnaclk/e19-co226-Online-Shopping.
+
+<!--
+
+### [Project 2 Name]
 - Description: Briefly describe the project and its objectives.
 - Technologies: List the technologies or tools used.
 - Repository: Link to the GitHub repository for the project.
-
-### [Project 2 Name]
-- Description: CO2226 Database Project : Online Shopping System.
-- Technologies: HTML, PHP, CSS, MySQL.
-- Repository: (https://github.com/cepdnaclk/e19-co226-Online-Shopping).
 
 ## Certifications
 - [Certification 1](Link to Certification 1): Description or issuer.
@@ -31,6 +33,8 @@ I'm a passionate computer engineering student, always exploring the latest techn
 ## Blog Posts & Technical Writing
 - [Blog Post 1](Link to Blog Post 1): Short description or topic.
 - [Blog Post 2](Link to Blog Post 2): Short description or topic.
+
+-->
 
 ## Contact Me
 - 📧 Email: e19105@eng.pdn.ac.lk
