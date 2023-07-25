@@ -14,8 +14,8 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - **Version Control:** Git, GitHub
 
 ## Projects
-### [Project 1 Name]
-- Description: CO2226 Database Project : Online Shopping System.
+### [C0226 Project]
+- Description: CO226 Database Project : Online Shopping System.
 - Technologies: HTML, PHP, CSS, MySQL.
 - Repository: https://github.com/cepdnaclk/e19-co226-Online-Shopping.
 
