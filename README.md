@@ -20,9 +20,9 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - Repository: Link to the GitHub repository for the project.
 
 ### [Project 2 Name]
-- Description: Briefly describe the project and its objectives.
-- Technologies: List the technologies or tools used.
-- Repository: Link to the GitHub repository for the project.
+- Description: CO2226 Database Project : Online Shopping System.
+- Technologies: HTML, PHP, CSS, MySQL.
+- Repository: (https://github.com/cepdnaclk/e19-co226-Online-Shopping).
 
 ## Certifications
 - [Certification 1](Link to Certification 1): Description or issuer.
