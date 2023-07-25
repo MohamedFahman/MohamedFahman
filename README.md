@@ -36,7 +36,7 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - 📧 Email: e19105@eng.pdn.ac.lk
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mhmfahman/)
 - 🐦 Twitter: [Twitter Handle](https://twitter.com/MHM_Fahman)
-- 🌐 Personal Blog: [Website or Blog](https://mohamedfahman.github.io/)
+- 🌐 Personal Blog: [Blog](https://mohamedfahman.github.io/)
 
 ## Fun Fact
 Share an interesting or quirky fact about yourself unrelated to programming or engineering.
