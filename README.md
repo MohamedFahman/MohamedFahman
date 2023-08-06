@@ -42,8 +42,8 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mhmfahman/)
 - 🐦 Twitter: [Twitter Handle](https://twitter.com/MHM_Fahman)
 - 🌐 Portfolio : [Blog](https://mohamedfahman.github.io/)
-- 📞 Phone: (123) 456-7890
--📍 Location: [City, State]
+- 📞 Phone: (123) 456-7890)
+- 📍 Location: [Batticaloa, Sri Lanka]
 
 
 ## Fun Fact
