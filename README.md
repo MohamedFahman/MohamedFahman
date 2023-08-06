@@ -40,23 +40,24 @@ I'm a passionate computer engineering student, always exploring the latest techn
 ## Contact Me
 - 📧 Email: e19105@eng.pdn.ac.lk
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mhmfahman/)
-- 🐦 Twitter: [Twitter Handle](https://twitter.com/MHM_Fahman)
-- 🌐 Portfolio : [Blog](https://mohamedfahman.github.io/)
-- 📞 Phone: (123) 456-7890)
+- 🌐 Portfolio : [Portfolio](https://mohamedfahman.github.io/)
+- 📞 Phone: (078) 924 0080)
 - 📍 Location: [Batticaloa, Sri Lanka]
 
 
+<!--
 ## Fun Fact
 Share an interesting or quirky fact about yourself unrelated to programming or engineering.
+
+## Open Source Contributions
+Mention any contributions or organizations you are actively involved in.
+-->
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedFahman&show_icons=true&count_private=true)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFahman)
-
-## Open Source Contributions
-Mention any contributions or organizations you are actively involved in.
 
 ## Interests
 When I'm not busy coding, you can find me indulging in the following hobbies:
