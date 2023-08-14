@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fahman</h1>
+<h1 align="center">Hi 👋, I'm Fahman 
 <h4 align="center">Web Developer | Creative Coder | Problem Solver</h4>
+</h1>
+
 
 ## About Me
 I'm a passionate computer engineering student, always exploring the latest technologies and seeking to solve real-world problems through innovative solutions. My journey in the world of programming and hardware has been an exciting adventure, and I'm constantly eager to learn and grow.
