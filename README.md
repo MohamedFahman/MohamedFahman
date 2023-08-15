@@ -43,6 +43,7 @@ I'm a passionate computer engineering student, always exploring the latest techn
 - 📧 Email: e19105@eng.pdn.ac.lk
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mhmfahman/)
 - 🌐 Portfolio : [Portfolio](https://mohamedfahman.github.io/)
+- 🌐 Dept. website : [Page](https://people.ce.pdn.ac.lk/students/e19/105/)
 - 📞 Phone: (078) 924 0080)
 - 📍 Location: [Batticaloa, Sri Lanka]
 
