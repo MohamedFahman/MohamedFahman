@@ -59,8 +59,10 @@ Mention any contributions or organizations you are actively involved in.
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedFahman&show_icons=true&count_private=true)
 
+<!--
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFahman)
+-->
 
 ## Interests
 When I'm not busy coding, you can find me indulging in the following hobbies:
