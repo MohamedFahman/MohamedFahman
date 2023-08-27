@@ -11,7 +11,7 @@ I'm a passionate computer engineering student, always exploring the latest techn
 
 ## Skills
 - **Programming Languages:** C, Java, Python, PHP
-- **Web Technologies:** HTML, CSS, JavaScript, Node.js
+- **Web Technologies:** HTML, CSS, SCSS, JavaScript, Node.js, React
 - **Database:** MySQL, MongoDB, Firebase
 - **Hardware & Embedded Systems:** VHDL,
 - **Version Control:** Git, GitHub
