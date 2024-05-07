@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahman 
-<h4 align="center">Software Engineer | Creative Coder | Problem Solver | Cyber Security Engineer </h4>
+<h4 align="center">Software Engineer | Creative Coder | Problem Solver </h4>
 </h1>
 
 
