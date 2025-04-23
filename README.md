@@ -6,7 +6,7 @@
 ## About Me
 I'm a passionate computer engineering student, always exploring the latest technologies and seeking to solve real-world problems through innovative solutions. My journey in the world of programming and hardware has been an exciting adventure, and I'm constantly eager to learn and grow.
 
-##🎓 Education
+# 🎓 Education
 - 🎓 Pursuing Bachelors's in Computer Engineering from University of Peradeniya.
 
 ## 💻 Tech Stack:
